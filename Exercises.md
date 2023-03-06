@@ -2,13 +2,13 @@
 
 ## Week 1 
 
-- [ ] Create a Github account 
-- [ ] Do the Github 'Hello World' 
-- [ ] Add a repository for the folio
-- [ ] What types of writing do you do (ie fiction, nonfiction, poetry, other)? 
-- [ ] What tools (or techniques) do you use to write? 
-- [ ] Why do you use these tools (or techniques)?
-- [ ] How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)? 
+- [X] Create a Github account 
+- [X] Do the Github 'Hello World' 
+- [X] Add a repository for the folio
+- [X] What types of writing do you do (ie fiction, nonfiction, poetry, other)? 
+- [X] What tools (or techniques) do you use to write? 
+- [X] Why do you use these tools (or techniques)?
+- [X] How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)? 
 
 ### What types of writing do you do (ie fiction, nonfiction, poetry, other)?
 
