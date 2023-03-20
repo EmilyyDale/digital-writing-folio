@@ -50,3 +50,10 @@ They help my writing practice as they aid in making me feel comfortable and open
 ## How is electronic literature different from print literature?
 
 ## What are the qualities of the works we might consider as qualities of electronic literature?
+
+
+### Repositories we made in class RE coded peotries. 
+
+[How to make a dadist poem](https://github.com/EmilyyDale/to-make-a-dadaist-poem)
+
+[N plus 7](https://github.com/EmilyyDale/n-plus-7)
