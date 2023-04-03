@@ -57,3 +57,7 @@ They help my writing practice as they aid in making me feel comfortable and open
 [How to make a dadist poem](https://github.com/EmilyyDale/to-make-a-dadaist-poem)
 
 [N plus 7](https://github.com/EmilyyDale/n-plus-7)
+
+
+###Folio Ideas###
+
