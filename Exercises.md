@@ -91,7 +91,9 @@ My Audience is based around people who enjoy adventure and the unknown. It's a s
 
 Having a particular audience in mind helps to centre the main plot of my work and how I'll go about developing the story. By chosing to relate my piece to an audience of young dults who enjoy reading/playing adventure stories, it helps me define the pirameters of my piece and how far I can take certain themes. 
 
-So, deciding that my audience will be younger adults I can push through elements of self-discovery and self-realisation as well as the complications of friendsship and how the differing of opinions and ideas when you're in your pubescent years can put a weight on your friendship, almost and often distroying it.
+So, deciding that my audience will be younger adults I can push through elements of self-discovery and self-realisation as well as the complications of friendship and how the differing of opinions and ideas when you're in your pubescent years can put a weight on your friendship, almost and often distroying it.
+
+The voice will be how I relate to this younger audience as well as character ages athe complications of young poeples relationships. 
 
 ### Where would you want to publish? And what type of platform would you have in mind? 
 
