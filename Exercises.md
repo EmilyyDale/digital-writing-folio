@@ -66,7 +66,7 @@ Initial idea...
 
 I enjoy motorcycles so wanted to create something centred around that theme. I discovered this website where people can upload rides which are presented in the form of lines that appear when you hover over differnt parts of the map. Anyone can add a ride they've done. The website is a really cool way to sahre rides on back roads and interesting routes around the place. 
 
-Here's a link to the site: (https://www.motowhere.com/explore/find/Melbourne,+Victoria,+Australia/at/-37.814,144.9633,10)
+Here's a link to the site: [Find a Ride] (https://www.motowhere.com/explore/find/Melbourne,+Victoria,+Australia/at/-37.814,144.9633,10)
 
 So my idea was to create a map like this with rides I've been on around Melbourne and Victoria with the same concept where you hover over the map and lines appear showing the ride routs in differnt colours. Then when you click on the ride a poem appears illustrating the themes, routes, ideas around that ride. And the poem would have been a continuous flow - infinitely generated poem. 
 
@@ -83,4 +83,16 @@ I'm thinking of choosing to use twine as my platform as, well, firstly it's seem
 
 I've started sketching outthe concept of my story in graphic format and I think I will encorporate these images into my story to add in setting each scene and aiding in the reader's understanding of the story and it's flow. 
 
+### Who is the audience for your developed work? 
 
+My Audience is based around people who enjoy adventure and the unknown. It's a simple story plot so would be aimed at a younger crowd - young adults.
+
+### How does having an audience in mind affect the development of the work? 
+
+Having a particular audience in mind helps to centre the main plot of my work and how I'll go about developing the story. By chosing to relate my piece to an audience of young dults who enjoy reading/playing adventure stories, it helps me define the pirameters of my piece and how far I can take certain themes. 
+
+So, deciding that my audience will be younger adults I can push through elements of self-discovery and self-realisation as well as the complications of friendsship and how the differing of opinions and ideas when you're in your pubescent years can put a weight on your friendship, almost and often distroying it.
+
+### Where would you want to publish? And what type of platform would you have in mind? 
+
+Itch.io ? Or a literary journal or Voice works 
