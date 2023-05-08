@@ -83,3 +83,5 @@ I'm thinking of choosing to use twine as my platform as, well, firstly it's seem
 
 
 I've started sketching outthe concept of my story in graphic format and I think I will encorporate these images into my story to add in setting each scene and aiding in the reader's understanding of the story and it's flow. 
+
+
