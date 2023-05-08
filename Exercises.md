@@ -66,8 +66,7 @@ Initial idea...
 
 I enjoy motorcycles so wanted to create something centred around that theme. I discovered this website where people can upload rides which are presented in the form of lines that appear when you hover over differnt parts of the map. Anyone can add a ride they've done. The website is a really cool way to sahre rides on back roads and interesting routes around the place. 
 
-Here's a link to the site: [
-](https://www.motowhere.com/explore/find/Melbourne,+Victoria,+Australia/at/-37.814,144.9633,10)
+Here's a link to the site: (https://www.motowhere.com/explore/find/Melbourne,+Victoria,+Australia/at/-37.814,144.9633,10)
 
 So my idea was to create a map like this with rides I've been on around Melbourne and Victoria with the same concept where you hover over the map and lines appear showing the ride routs in differnt colours. Then when you click on the ride a poem appears illustrating the themes, routes, ideas around that ride. And the poem would have been a continuous flow - infinitely generated poem. 
 
