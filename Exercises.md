@@ -62,7 +62,7 @@ They help my writing practice as they aid in making me feel comfortable and open
 ## Folio Ideas
 
 
-Initial idea... 
+### Initial idea... 
 
 I enjoy motorcycles so wanted to create something centred around that theme. I discovered this website where people can upload rides which are presented in the form of lines that appear when you hover over differnt parts of the map. Anyone can add a ride they've done. The website is a really cool way to sahre rides on back roads and interesting routes around the place. 
 
@@ -72,7 +72,7 @@ So my idea was to create a map like this with rides I've been on around Melbourn
 
 However. After consulting my housemate (who codes) we decided it ould be too complicated of a job for me to code myself. So I sadly had to let go of this idea and start on the road to developing a new concept that fits my coding skills. 
 
-## New Idea 
+### New Idea 
 
 I was going through some old pieces I've written which revolved around the concept of the Hero's Journey. That traditional story flow of the characters starting out, maybe seeking adventure and not happy where they are so they set off for something differnt - to discover change. 
 
