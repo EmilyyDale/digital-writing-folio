@@ -59,5 +59,27 @@ They help my writing practice as they aid in making me feel comfortable and open
 [N plus 7](https://github.com/EmilyyDale/n-plus-7)
 
 
-###Folio Ideas###
+## Folio Ideas
 
+
+Initial idea... 
+
+I enjoy motorcycles so wanted to create something centred around that theme. I discovered this website where people can upload rides which are presented in the form of lines that appear when you hover over differnt parts of the map. Anyone can add a ride they've done. The website is a really cool way to sahre rides on back roads and interesting routes around the place. 
+
+Here's a link to the site: [
+](https://www.motowhere.com/explore/find/Melbourne,+Victoria,+Australia/at/-37.814,144.9633,10)
+
+So my idea was to create a map like this with rides I've been on around Melbourne and Victoria with the same concept where you hover over the map and lines appear showing the ride routs in differnt colours. Then when you click on the ride a poem appears illustrating the themes, routes, ideas around that ride. And the poem would have been a continuous flow - infinitely generated poem. 
+
+However. After consulting my housemate (who codes) we decided it ould be too complicated of a job for me to code myself. So I sadly had to let go of this idea and start on the road to developing a new concept that fits my coding skills. 
+
+## New Idea 
+
+I was going through some old pieces I've written which revolved around the concept of the Hero's Journey. That traditional story flow of the characters starting out, maybe seeking adventure and not happy where they are so they set off for something differnt - to discover change. 
+
+I thought this idea would be easier to play out in a twine - interactive piece. I like the idea of adnenture, catastrophy and an element of the fantastic unknown. 
+
+I'm thinking of choosing to use twine as my platform as, well, firstly it's seems to be the easiest platform to use (haha - my coding skills are so very limited) and I'm thinking it will be the best platform to portray the concept of my proposed piece in an intersting way. 
+
+
+I've started sketching outthe concept of my story in graphic format and I think I will encorporate these images into my story to add in setting each scene and aiding in the reader's understanding of the story and it's flow. 
