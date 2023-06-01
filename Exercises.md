@@ -58,6 +58,18 @@ They help my writing practice as they aid in making me feel comfortable and open
 
 [N plus 7](https://github.com/EmilyyDale/n-plus-7)
 
+### Other Respositories we've made in class. 
+
+These include our kinetic poems, which I found fun and interesting but had difficulty with the coding. Then there's bitsy and inform 7 which were cool applications. I especially enjoyed bitsy hoever, ot was twine that took my fancy more so than vthe others and is the program I settled on to begin developing my project. i would say this is because of the story element which is more ingrained in the twine software. I enjoyed playing the example interactive fictions and choose your own adventure games based on twine which we looked at in class. 
+
+[kinetic-poem-remix](https://github.com/EmilyyDale/kinetic-poem-remix)
+
+[inform-7-example](https://github.com/EmilyyDale#:~:text=Public-,inform%2D7%2Dexample,-Public)
+
+[bitsy-example-2023](https://github.com/EmilyyDale?tab=repositories#:~:text=Star-,bitsy%2Dexample%2D2023,-Public)
+
+[Digital-writing-twine](https://github.com/EmilyyDale?tab=repositories#:~:text=Digital%2Dwriting%2Dtwine)
+
 
 ## Folio Ideas
 
@@ -98,3 +110,10 @@ The voice will be how I relate to this younger audience as well as character age
 ### Where would you want to publish? And what type of platform would you have in mind? 
 
 Itch.io ? Or a literary journal or Voice works 
+
+
+### Beginning of Development of work
+
+The Inspiration ?? 
+
+
