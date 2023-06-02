@@ -81,6 +81,88 @@ I already had a website which I had used squarespace to design last year. I use 
 This website also contains my artist statement and I use it as a CV too. So please see the website for those elements of the folio. 
 
 
+### week 3 
+
+We worked on our assignments this week for our class presentation. Explored different types of electronic literature. I was curious to explore digital poetry and discovered the Forgotten Nights poem which captivated my interest. 
+
+Notes from this week’s readings: 
+
+"Beyond Taxonomy: Digital Poetics and the Problem of Reading" by Johanna Drucker
+
+I thought this piece was interesting, albeit a little hard to digest. A key takeaway for me was the point on the importance of visual communication in literature. 
+
+"Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" by Rita Raley
+
+Loved that this piece talked of demystifying the complexities that engulf technology - resonated with me a lot. 
+
+
+### Week 4 
+
+This week was really enjoyable. We remixed the Tarako Gorge poem. I created a poem called Sand Flow. I found it easier to work with code that was already written and enjoyed changing elements of this code to change the format of the poem, It gave me a taste of the ability one has to alter with code. 
+Here’s a link to the live website: 
+
+https://fantastic-fascinated-purpose.glitch.me
+
+
+### Week 5 
+
+This week we looked into HTML and started to learn about code in a more in-depth way and how one can customise text. 
+
+We also had an interesting discussion in class about the difference between electronic literature and games. How are they separate? We didn’t really have a definitive answer. 
+
+
+Readings from this week: 
+
+“Perspectives on Ergodic Literature” by Espen J. Aarseth.
+
+An interesting exploration of the characteristics of interactive, non-linear narratives. Something that has multiple endings and multiple storylines. 
+
+I thought the note on challenged authorship was fascinating - the reader becomes an active participant in shaping the narrative so do they have agency in creating the piece? 
+
+
+### Week 6 
+
+
+This week we had a go at Inform 7 which I found very difficult to navigate. I didn’t get very far into the game getting stuck on finding the correct words to use. 
+
+I didn’t get very far in creating anything of my own. Finding I couldn’t get it to do anything I wanted. Only the minutest actions. I won’t use this application for my project. 
+
+It was a cool game if you understood the correct directional words to use and once we learnt some of them I did enjoy navigating through it. It is much like a video game in that sense, to me. 
+
+
+### Week 7 
+
+“Riddles” by Nick Montfort from Twisty little passages: an approach to interactive fiction
+
+This book brought a lot of context to the types of interactive fiction we had looked at in previous weeks as a lot of it was riddle based. 
+
+I liked learning about the different types of riddles found in interactive fiction; 
+
+Literal riddles
+ Logic puzzles 
+Wordplay challenges 
+
+
+Game game game 
+
+This was fascinating to play, however, quite annoying at times. Was interesting to look at yet another type of interactive piece using something like drawn-on paper as the digital medium here. 
+
+
+This week where we began playing around with Twine. I began drafting an example story and experimented with adding in images and flowing through different branches of a story. 
+
+I initially had an idea for an unorthodox fairytale and started drafting out ideas this week. However, this idea was given up as too complicated.  
+
+
+### Week 9 
+
+Ikeda R. “Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique”
+
+Search engines objectify people (??)
+Critwuing underlying white supremacist ideologies in present-day electronic literature. 
+Ileda explores the underlying logic and mechanisms that perpetuate white supremacy - power dynamics, biases, and exclusions. 
+
+
+
 ##  Project Ideas
 
 
