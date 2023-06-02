@@ -71,7 +71,17 @@ These include our kinetic poems, which I found fun and interesting but had diffi
 [Digital-writing-twine](https://github.com/EmilyyDale?tab=repositories#:~:text=Digital%2Dwriting%2Dtwine)
 
 
-## Folio Ideas
+### Building a website 
+
+[
+](https://emilyydale.squarespace.com/)
+
+I already had a website which I had used squarespace to design last year. I use it mainly as a portfolio and a place to store and share new work. 
+
+This website also contains my artist statement and I use it as a CV too. So please see the website for those elements of the folio. 
+
+
+##  Project Ideas
 
 
 ### Initial idea... 
@@ -88,7 +98,7 @@ However. After consulting my housemate (who codes) we decided it ould be too com
 
 I was going through some old pieces I've written which revolved around the concept of the Hero's Journey. That traditional story flow of the characters starting out, maybe seeking adventure and not happy where they are so they set off for something differnt - to discover change. 
 
-I thought this idea would be easier to play out in a twine - interactive piece. I like the idea of adnenture, catastrophy and an element of the fantastic unknown. 
+I thought this idea would be easier to play out in a twine - interactive piece. I like the idea of adventure, catastrophy and an element of the fantastical unknown. 
 
 I'm thinking of choosing to use twine as my platform as, well, firstly it's seems to be the easiest platform to use (haha - my coding skills are so very limited) and I'm thinking it will be the best platform to portray the concept of my proposed piece in an intersting way. 
 
@@ -115,5 +125,38 @@ Itch.io ? Or a literary journal or Voice works
 ### Beginning of Development of work
 
 The Inspiration ?? 
+
+I started writing this piece with the idea that I watned to create a piece botu sisterhoos and the relationship among young friends. However, it turned more so into an adventure gone wrong. Gone wrong how ? Well most of it wasn't of the character's own volition. I wanted to incorporate elements of the fantastical in it but this throghout the writing and creation of the piece turned more so into elements of the unknown, the uncertain and the inexplicable... Which I think adds a layer of mystery, suspense and thrill to the story. That I hope ocmes across when you read/play it.  
+
+Experimentation 
+
+<img width="1343" alt="Screen Shot 2023-06-01 at 5 14 43 pm" src="https://github.com/EmilyyDale/digital-writing-folio/assets/126431277/9e573b0f-ce12-4241-b9e6-75885f57a03d">
+
+![Screen Shot 2023-06-01 at 5 14 33 pm](https://github.com/EmilyyDale/digital-writing-folio/assets/126431277/65c32865-50b9-49b1-8aef-c2844daba848)
+
+These screenshots depict me in the midst pf the creation of my twine story. Trying to flesh out the main branches and get the flow smooth. 
+
+
+I began adding images to my twine story using the code that we played with in class: 
+
+
+<img width="1395" alt="Screen Shot 2023-06-02 at 7 53 31 am" src="https://github.com/EmilyyDale/digital-writing-folio/assets/126431277/bffcfee5-4f63-4dc9-8011-1d66375c6d97">
+
+![Screen Shot 2023-06-02 at 7 54 15 am](https://github.com/EmilyyDale/digital-writing-folio/assets/126431277/9e7b7a45-6e0a-4a4b-ba2f-4253837a4d14)
+
+
+However, the writing became hard to read when against the white clouds so then i had to figure out how to change it. 
+
+
+Tried to put in multiple images and they don't seem to be appearing when I publish the story. Only the first image does... Not sure what I've done wrong here. but Am trying to amend this. 
+
+<img width="480" alt="Screen Shot 2023-06-02 at 8 28 33 am" src="https://github.com/EmilyyDale/digital-writing-folio/assets/126431277/28e07f42-842c-4c94-b428-7bd37c110b03">
+
+
+I then tried to change the font and colour of the text, however had some trouble with that as well... 
+
+![Screen Shot 2023-06-02 at 8 30 01 am](https://github.com/EmilyyDale/digital-writing-folio/assets/126431277/469ce85c-fb52-4ca9-832d-390d60fb6199)
+
+
 
 
